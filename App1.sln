@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inputTest", "inputTest\inpu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulator", "kalkulator\kalkulator.csproj", "{FEE44294-6609-4CBB-A185-36D581BE1C83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDataType", "ConvertDataType\ConvertDataType.csproj", "{575F18DF-4F7A-4CC8-921E-88D7E197AAE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FEE44294-6609-4CBB-A185-36D581BE1C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE44294-6609-4CBB-A185-36D581BE1C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE44294-6609-4CBB-A185-36D581BE1C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575F18DF-4F7A-4CC8-921E-88D7E197AAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575F18DF-4F7A-4CC8-921E-88D7E197AAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575F18DF-4F7A-4CC8-921E-88D7E197AAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575F18DF-4F7A-4CC8-921E-88D7E197AAE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
